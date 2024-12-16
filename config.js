@@ -1,5 +1,5 @@
 global.owner = [
-  "2347043759577",
+  "254114119015",
   ""
 ]
 global.anitav4 = "Untamed_Kiddo"
