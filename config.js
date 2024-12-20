@@ -12,12 +12,12 @@ global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;   // Set to true to automatically read statuses
 global.AUTOSTATUS_REACT = true;   // Set to true to automatically like statuses
-global.autoLikeEmoji = "💚🏳️";    // Default emoji for liking statuses
+global.autoLikeEmoji = "✝️〽️";    // Default emoji for liking statuses
 
 global.LEVELUP = false;
 
 
-global.ANTIVIEWONCE = false;
+global.ANTIVIEWONCE = true;
 
 global.roles = {
     1: "Novice",
