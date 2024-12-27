@@ -30,7 +30,7 @@ global.roles = {
 
 global.sudoUsers = process.env.SUDO_USERS.split(',').map(user => `${user}@s.whatsapp.net`); 
 
-global.public = process.env.PUBLIC === 'true';
+global.public = process.env.PUBLIC === 'false';
 
 global.ANTIDELETE = process.env.ANTIDELETE === 'true';
 global.unavailable = process.env.UNAVAILABLE === 'true';
